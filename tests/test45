@@ -1,0 +1,11 @@
+abcabcabc
+abcabcabc
+abcabcabc
+abcabcabc
+::i
+gc 6 2
+re abc def
+gc 3 2
+re abcdef ------
+s
+q
